@@ -1,0 +1,21 @@
+.main-header-container {
+    background-color: black;
+    height: 40px;
+    padding: 11px;
+}
+
+.main-header-container img {
+    height: 35px;
+    background-color: #ff7f7f;
+    float: left;
+}
+
+.main-header-container #header-title {
+    font-size: x-large;
+    font-weight: normal;
+    color: white;
+}
+
+.main-header-container Button {
+    float: right;
+}
